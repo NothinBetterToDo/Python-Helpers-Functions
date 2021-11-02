@@ -7,17 +7,12 @@ Compiling all the helper functions that will be useful for existing or future pr
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
+<!-- UTILS -->
+## Helpers Functions
 
 Here are a few examples.
 
 * [SQL Databases](https://github.com/NothinBetterToDo/Python-Helpers-Functions/blob/main/SQL_Databases.py)
-* [Time Series - Data Processing](https://github.com/NothinBetterToDo/Python-Helpers-Functions/blob/main/Time-Series/TS_DataProcessing.py)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Time Series](https://github.com/NothinBetterToDo/Python-Helpers-Functions/tree/main/Time-Series)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
